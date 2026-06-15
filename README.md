@@ -54,3 +54,9 @@ Healthcare-focused machine learning solution.
 
 LinkedIn: https://linkedin.com/in/your-linkedin
 LeetCode: https://leetcode.com/your-id
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=adityas777&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityas777&layout=compact)
