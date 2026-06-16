@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 Currently learning Advanced Machine Learning and System Design<br>- 🔭 Working on AI-powered Job Application Assistant<br>- 🤖 Built ML projects for Dynamic Pricing, PCOS Detection, and Vehicle Price Prediction<br>- ⚡ Solved 500+ DSA problems<br>- 📫 Reach me at: your-email@example.com
+- 🌱 Currently learning Advanced Machine Learning and System Design<br>- 🔭 Working on AI-powered Job Application Assistant<br>- 🤖 Built ML projects for Dynamic Pricing, PCOS Detection, and Vehicle Price Prediction<br>- ⚡ Solved 500+ DSA problems<br>- 📫 Reach me at: adityas23100@iiitnr.edu.in
 
 
 ## 🌐 Socials:
